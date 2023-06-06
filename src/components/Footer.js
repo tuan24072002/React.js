@@ -8,16 +8,16 @@ const Footer = () => {
                     <p>Choose your favorite destination</p>
                 </div>
                 <div>
-                    <a href='/'>
+                    <a href='https://www.facebook.com/IAm.TuanSeven.Info/'>
                         <i className='fa-brands fa-facebook-square'></i>
                     </a>
-                    <a href='/'>
+                    <a href='https://www.facebook.com/IAm.TuanSeven.Info/'>
                         <i className='fa-brands fa-instagram-square'></i>
                     </a>
-                    <a href='/'>
+                    <a href='https://www.facebook.com/IAm.TuanSeven.Info/'>
                         <i className='fa-brands fa-behance-square'></i>
                     </a>
-                    <a href='/'>
+                    <a href='https://www.facebook.com/IAm.TuanSeven.Info/'>
                         <i className='fa-brands fa-twitter-square'></i>
                     </a>
                 </div>
